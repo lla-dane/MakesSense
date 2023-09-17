@@ -24,7 +24,7 @@ public class Gravity : MonoBehaviour
         if (Input.GetMouseButtonDown(2))
         {
 
-            playerSprite.flipX = !flipSpriteUnderAntiGravity;
+            playerSprite.flipX = !playerSprite.flipX;
             
 
             isGravityReversed = !isGravityReversed;
