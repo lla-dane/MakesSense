@@ -6,7 +6,7 @@ public class ToggleColorChange : MonoBehaviour
 {
     private SpriteRenderer sprite;
     private Color originalColor;
-    private bool colorChanged = false;
+    public bool colorChanged = false;
 
     void Start()
     {
