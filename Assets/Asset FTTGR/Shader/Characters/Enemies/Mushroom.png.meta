@@ -1,85 +1,106 @@
 fileFormatVersion: 2
-guid: 761cb6193fc28134593f8eb255f4bf89
+guid: 28fda1c58c989354aa82a0c2aaeb67e2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5809030516613042957
-    second: SkeletonDeath1
+      213: -2088000535628536740
+    second: MushroomDeath1
   - first:
-      213: 6682473901004932845
-    second: SkeletonDeath2
+      213: 3887663211288319605
+    second: MushroomDeath2
   - first:
-      213: -6895646428441557691
-    second: SkeletonDeath3
+      213: 8865076675659703971
+    second: MushroomDeath3
   - first:
-      213: 8681928648562347177
-    second: SkeletonDeath4
+      213: 1916391413072433244
+    second: MushroomDeath4
   - first:
-      213: -6534455043122499310
-    second: SkeletonDeath5
+      213: -4031989572425629140
+    second: MushroomDeath5
   - first:
-      213: -7021505876318606439
-    second: SkeletonDeath6
+      213: -7437045468143122149
+    second: MushroomDeath6
   - first:
-      213: -9021820611684853211
-    second: SkeletonAttack1
+      213: 3041086630758705066
+    second: MushroomDeath7
   - first:
-      213: -1443268486790046223
-    second: SkeletonAttack2
+      213: -1485278994114365529
+    second: MushroomDeath8
   - first:
-      213: -3968840907078709152
-    second: SkeletonAttack3
+      213: 6152795000419376195
+    second: MushroomDeath9
   - first:
-      213: -2164511808432914653
-    second: SkeletonAttack4
+      213: 3096064027502339337
+    second: MushroomAttack1
   - first:
-      213: -7000201611338815235
-    second: SkeletonAttack5
+      213: 2589786617933341811
+    second: MushroomAttack2
   - first:
-      213: -4022789504429121826
-    second: SkeletonAttack6
+      213: -5737264757761924550
+    second: MushroomAttack3
   - first:
-      213: 6219686596316222553
-    second: SkeletonRun1
+      213: -5982220943440865262
+    second: MushroomAttack4
   - first:
-      213: 2058306284268228198
-    second: SkeletonRun2
+      213: 873260764250570984
+    second: MushroomAttack5
   - first:
-      213: -6896880325500990939
-    second: SkeletonRun3
+      213: -8431765710462955183
+    second: MushroomAttack6
   - first:
-      213: 8495289983822508492
-    second: SkeletonRun4
+      213: -7846531847153069323
+    second: MushroomAttack7
   - first:
-      213: -1155214034691015396
-    second: SkeletonRun5
+      213: -2228391553154802319
+    second: MushroomAttack8
   - first:
-      213: 380626319886666678
-    second: SkeletonRun6
+      213: -3433648290940624000
+    second: MushroomWalk1
   - first:
-      213: 8661365367480307861
-    second: SkeletonRun7
+      213: -6810014854731390325
+    second: MushroomWalk2
   - first:
-      213: 4120830285991997394
-    second: SkeletonRun8
+      213: 1603920127505359089
+    second: MushroomWalk3
   - first:
-      213: -5758231261664834141
-    second: SkeletonRun9
+      213: -7736837126515135155
+    second: MushroomWalk4
   - first:
-      213: -2982681959859218868
-    second: SkeletonRun10
+      213: -6684991151377399633
+    second: MushroomWalk5
   - first:
-      213: 7905454227381942895
-    second: SkeletonIdle1
+      213: 4949802855548340350
+    second: MushroomWalk6
   - first:
-      213: 6331079080334612255
-    second: SkeletonIdle2
+      213: 8227093104532645783
+    second: MushroomSleep
   - first:
-      213: -8298240164133097545
-    second: SkeletonIdle3
+      213: 7695495991451614683
+    second: MushroomWakeUp1
   - first:
-      213: -6353374511362956258
-    second: SkeletonIdle4
+      213: 6999203133586642668
+    second: MushroomWakeUp2
+  - first:
+      213: 4678023041051346391
+    second: MushroomWakeUp3
+  - first:
+      213: 5869428084727078703
+    second: MushroomIdle1
+  - first:
+      213: 930242657941807443
+    second: MushroomIdle2
+  - first:
+      213: 3578123197544730050
+    second: MushroomIdle3
+  - first:
+      213: 534029116444272896
+    second: MushroomIdle4
+  - first:
+      213: -7088039947861291678
+    second: MushroomWakeUp4
+  - first:
+      213: 1900118119756030222
+    second: MushroomDeath10
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -219,12 +240,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: SkeletonDeath1
+      name: MushroomDeath1
       rect:
         serializedVersion: 2
-        x: 16
-        y: 72
-        width: 16
+        x: 24
+        y: 96
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -233,19 +254,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d03df103a72dd9050800000000000000
-      internalID: 5809030516613042957
+      spriteID: c542907539ee503e0800000000000000
+      internalID: -2088000535628536740
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonDeath2
+      name: MushroomDeath2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 72
-        width: 16
+        x: 48
+        y: 96
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -254,19 +275,187 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: de6c7329b9aecbc50800000000000000
-      internalID: 6682473901004932845
+      spriteID: 576d13bc711c3f530800000000000000
+      internalID: 3887663211288319605
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonDeath3
+      name: MushroomDeath3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a62c4f6444170b70800000000000000
+      internalID: 8865076675659703971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomDeath4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c509ac236d3689a10800000000000000
+      internalID: 1916391413072433244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomDeath5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22cd75a8de7b08c0800000000000000
+      internalID: -4031989572425629140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomDeath6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1986e4cc8e4ac890800000000000000
+      internalID: -7437045468143122149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomDeath7
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7ef85ad2c143a20800000000000000
+      internalID: 3041086630758705066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomDeath8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7b67bcf9a336be0800000000000000
+      internalID: -1485278994114365529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomDeath9
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 96
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cdbc7347e136550800000000000000
+      internalID: 6152795000419376195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomAttack1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905642154dd67fa20800000000000000
+      internalID: 3096064027502339337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomAttack2
       rect:
         serializedVersion: 2
         x: 48
         y: 72
-        width: 16
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -275,19 +464,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 545cc08ab1ebd40a0800000000000000
-      internalID: -6895646428441557691
+      spriteID: 3742afd2535c0f320800000000000000
+      internalID: 2589786617933341811
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonDeath4
+      name: MushroomAttack3
       rect:
         serializedVersion: 2
-        x: 64
+        x: 72
         y: 72
-        width: 16
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -296,188 +485,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9ac88d66b186c7870800000000000000
-      internalID: 8681928648562347177
+      spriteID: a32ab33a9142160b0800000000000000
+      internalID: -5737264757761924550
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonDeath5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 72
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2117ce162c3f055a0800000000000000
-      internalID: -6534455043122499310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonDeath6
+      name: MushroomAttack4
       rect:
         serializedVersion: 2
         x: 96
         y: 72
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 99b26b56b999e8e90800000000000000
-      internalID: -7021505876318606439
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonAttack1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52a1a3d04fd0cc280800000000000000
-      internalID: -9021820611684853211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonAttack2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1fd1d5145fa78fbe0800000000000000
-      internalID: -1443268486790046223
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonAttack3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 060d88b0938dbe8c0800000000000000
-      internalID: -3968840907078709152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonAttack4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 48
         width: 24
         height: 24
-      alignment: 9
-      pivot: {x: 0.33333334, y: 0.5}
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 32fb7327afb16f1e0800000000000000
-      internalID: -2164511808432914653
+      spriteID: 2181e424fb1eafca0800000000000000
+      internalID: -5982220943440865262
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonAttack5
+      name: MushroomAttack5
       rect:
         serializedVersion: 2
-        x: 88
-        y: 48
+        x: 120
+        y: 72
         width: 24
         height: 24
-      alignment: 9
-      pivot: {x: 0.33333334, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: df8680029b94ade90800000000000000
-      internalID: -7000201611338815235
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonAttack6
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 48
-        width: 32
-        height: 24
-      alignment: 9
-      pivot: {x: 0.25, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ede1556624e2c28c0800000000000000
-      internalID: -4022789504429121826
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 24
-        width: 16
-        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -485,166 +527,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 954dfab8104c05650800000000000000
-      internalID: 6219686596316222553
+      spriteID: 8e00171d9027e1c00800000000000000
+      internalID: 873260764250570984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonRun2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 24
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 66e03c009a2909c10800000000000000
-      internalID: 2058306284268228198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 24
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52a022c92eb5940a0800000000000000
-      internalID: -6896880325500990939
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 24
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cc1bca5fa3555e570800000000000000
-      internalID: 8495289983822508492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 24
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c1d32beb4fad7ffe0800000000000000
-      internalID: -1155214034691015396
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun6
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 24
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6bb420d0f91484500800000000000000
-      internalID: 380626319886666678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun7
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 24
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 590d88e69e9533870800000000000000
-      internalID: 8661365367480307861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun8
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 24
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2df6930ef41203930800000000000000
-      internalID: 4120830285991997394
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonRun9
+      name: MushroomAttack6
       rect:
         serializedVersion: 2
         x: 144
-        y: 24
-        width: 16
+        y: 72
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -653,19 +548,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3ad0be90d27a610b0800000000000000
-      internalID: -5758231261664834141
+      spriteID: 151598e72c95cfa80800000000000000
+      internalID: -8431765710462955183
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonRun10
+      name: MushroomAttack7
       rect:
         serializedVersion: 2
-        x: 160
-        y: 24
-        width: 16
+        x: 168
+        y: 72
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -674,19 +569,250 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4610a87f826b96d0800000000000000
-      internalID: -2982681959859218868
+      spriteID: 5f2d6a39bd48b1390800000000000000
+      internalID: -7846531847153069323
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonIdle1
+      name: MushroomAttack8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 72
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d1abd50b92311e0800000000000000
+      internalID: -2228391553154802319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWalk1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0836bd6521b3950d0800000000000000
+      internalID: -3433648290940624000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWalk2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b822a941297fd71a0800000000000000
+      internalID: -6810014854731390325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWalk3
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f06e08abd4424610800000000000000
+      internalID: 1603920127505359089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWalk4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de20dff9b31a490800000000000000
+      internalID: -7736837126515135155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWalk5
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0458767f32a33a0800000000000000
+      internalID: -6684991151377399633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWalk6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e784c21d87b31b440800000000000000
+      internalID: 4949802855548340350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomSleep
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797ebbde6918c2270800000000000000
+      internalID: 8227093104532645783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWakeUp1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd7aece4d4ebca60800000000000000
+      internalID: 7695495991451614683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWakeUp2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce69b38aa2a222160800000000000000
+      internalID: 6999203133586642668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWakeUp3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d545fcab2dabe040800000000000000
+      internalID: 4678023041051346391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomIdle1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -695,19 +821,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f6af5332cb0d5bd60800000000000000
-      internalID: 7905454227381942895
+      spriteID: f2fdbd8deb5647150800000000000000
+      internalID: 5869428084727078703
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonIdle2
+      name: MushroomIdle2
       rect:
         serializedVersion: 2
-        x: 16
+        x: 24
         y: 0
-        width: 16
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -716,40 +842,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f17504c41e28cd750800000000000000
-      internalID: 6331079080334612255
+      spriteID: 351698dc4c2e8ec00800000000000000
+      internalID: 930242657941807443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SkeletonIdle3
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7bfa7f3698ab6dc80800000000000000
-      internalID: -8298240164133097545
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: SkeletonIdle4
+      name: MushroomIdle3
       rect:
         serializedVersion: 2
         x: 48
         y: 0
-        width: 16
+        width: 24
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -758,8 +863,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e14a0352b8744d7a0800000000000000
-      internalID: -6353374511362956258
+      spriteID: 2cd0d38271c08a130800000000000000
+      internalID: 3578123197544730050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomIdle4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0096069e6a0496700800000000000000
+      internalID: 534029116444272896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomWakeUp4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d03f1b83932ad90800000000000000
+      internalID: -7088039947861291678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MushroomDeath10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e016757dc539e5a10800000000000000
+      internalID: 1900118119756030222
       vertices: []
       indices: 
       edges: []
@@ -775,32 +943,39 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SkeletonDeath2: 6682473901004932845
-      SkeletonAttack6: -4022789504429121826
-      SkeletonIdle1: 7905454227381942895
-      SkeletonRun8: 4120830285991997394
-      SkeletonDeath5: -6534455043122499310
-      SkeletonAttack2: -1443268486790046223
-      SkeletonRun4: 8495289983822508492
-      SkeletonRun5: -1155214034691015396
-      SkeletonRun9: -5758231261664834141
-      SkeletonDeath1: 5809030516613042957
-      SkeletonRun10: -2982681959859218868
-      SkeletonRun3: -6896880325500990939
-      SkeletonRun1: 6219686596316222553
-      SkeletonIdle3: -8298240164133097545
-      SkeletonIdle2: 6331079080334612255
-      SkeletonAttack4: -2164511808432914653
-      SkeletonAttack5: -7000201611338815235
-      SkeletonRun7: 8661365367480307861
-      SkeletonDeath4: 8681928648562347177
-      SkeletonIdle4: -6353374511362956258
-      SkeletonRun2: 2058306284268228198
-      SkeletonDeath3: -6895646428441557691
-      SkeletonDeath6: -7021505876318606439
-      SkeletonAttack1: -9021820611684853211
-      SkeletonRun6: 380626319886666678
-      SkeletonAttack3: -3968840907078709152
+      MushroomAttack1: 3096064027502339337
+      MushroomAttack2: 2589786617933341811
+      MushroomAttack3: -5737264757761924550
+      MushroomAttack4: -5982220943440865262
+      MushroomAttack5: 873260764250570984
+      MushroomAttack6: -8431765710462955183
+      MushroomAttack7: -7846531847153069323
+      MushroomAttack8: -2228391553154802319
+      MushroomDeath1: -2088000535628536740
+      MushroomDeath10: 1900118119756030222
+      MushroomDeath2: 3887663211288319605
+      MushroomDeath3: 8865076675659703971
+      MushroomDeath4: 1916391413072433244
+      MushroomDeath5: -4031989572425629140
+      MushroomDeath6: -7437045468143122149
+      MushroomDeath7: 3041086630758705066
+      MushroomDeath8: -1485278994114365529
+      MushroomDeath9: 6152795000419376195
+      MushroomIdle1: 5869428084727078703
+      MushroomIdle2: 930242657941807443
+      MushroomIdle3: 3578123197544730050
+      MushroomIdle4: 534029116444272896
+      MushroomSleep: 8227093104532645783
+      MushroomWakeUp1: 7695495991451614683
+      MushroomWakeUp2: 6999203133586642668
+      MushroomWakeUp3: 4678023041051346391
+      MushroomWakeUp4: -7088039947861291678
+      MushroomWalk1: -3433648290940624000
+      MushroomWalk2: -6810014854731390325
+      MushroomWalk3: 1603920127505359089
+      MushroomWalk4: -7736837126515135155
+      MushroomWalk5: -6684991151377399633
+      MushroomWalk6: 4949802855548340350
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

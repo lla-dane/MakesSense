@@ -1,70 +1,85 @@
 fileFormatVersion: 2
-guid: afb7602f2ec99fd4ba19c0fd8a9641fb
+guid: 761cb6193fc28134593f8eb255f4bf89
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -458185587419916677
-    second: WolfRun1
+      213: 5809030516613042957
+    second: SkeletonDeath1
   - first:
-      213: -5547194825390550217
-    second: WolfRun2
+      213: 6682473901004932845
+    second: SkeletonDeath2
   - first:
-      213: 6891357095817125983
-    second: WolfRun3
+      213: -6895646428441557691
+    second: SkeletonDeath3
   - first:
-      213: 2672853027243246175
-    second: WolfRun4
+      213: 8681928648562347177
+    second: SkeletonDeath4
   - first:
-      213: -6079965141102547391
-    second: WolfRun5
+      213: -6534455043122499310
+    second: SkeletonDeath5
   - first:
-      213: -6983649135101308852
-    second: WolfRun6
+      213: -7021505876318606439
+    second: SkeletonDeath6
   - first:
-      213: 5184831053750644559
-    second: WolfAttack1
+      213: -9021820611684853211
+    second: SkeletonAttack1
   - first:
-      213: 4345086733073366625
-    second: WolfAttack2
+      213: -1443268486790046223
+    second: SkeletonAttack2
   - first:
-      213: 1575559808605154654
-    second: WolfAttack3
+      213: -3968840907078709152
+    second: SkeletonAttack3
   - first:
-      213: -5063944184051285002
-    second: WolfAttack4
+      213: -2164511808432914653
+    second: SkeletonAttack4
   - first:
-      213: 1931046830726773370
-    second: WolfAttack5
+      213: -7000201611338815235
+    second: SkeletonAttack5
   - first:
-      213: 5053179653577929093
-    second: WolfAttack6
+      213: -4022789504429121826
+    second: SkeletonAttack6
   - first:
-      213: -3112195067975180470
-    second: WolfIdle1
+      213: 6219686596316222553
+    second: SkeletonRun1
   - first:
-      213: 6257932743403368881
-    second: WolfIdle2
+      213: 2058306284268228198
+    second: SkeletonRun2
   - first:
-      213: -646909099640243086
-    second: WolfIdle3
+      213: -6896880325500990939
+    second: SkeletonRun3
   - first:
-      213: 4894625464057909285
-    second: WolfIdle4
+      213: 8495289983822508492
+    second: SkeletonRun4
   - first:
-      213: -568028469627883041
-    second: WolfDeath1
+      213: -1155214034691015396
+    second: SkeletonRun5
   - first:
-      213: -8950900020940200642
-    second: WolfDeath2
+      213: 380626319886666678
+    second: SkeletonRun6
   - first:
-      213: -7301354884331706780
-    second: WolfDeath3
+      213: 8661365367480307861
+    second: SkeletonRun7
   - first:
-      213: -2594674251864920846
-    second: WolfDeath4
+      213: 4120830285991997394
+    second: SkeletonRun8
   - first:
-      213: 7909793306663388568
-    second: WolfDeath5
+      213: -5758231261664834141
+    second: SkeletonRun9
+  - first:
+      213: -2982681959859218868
+    second: SkeletonRun10
+  - first:
+      213: 7905454227381942895
+    second: SkeletonIdle1
+  - first:
+      213: 6331079080334612255
+    second: SkeletonIdle2
+  - first:
+      213: -8298240164133097545
+    second: SkeletonIdle3
+  - first:
+      213: -6353374511362956258
+    second: SkeletonIdle4
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -204,12 +219,264 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: WolfRun1
+      name: SkeletonDeath1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03df103a72dd9050800000000000000
+      internalID: 5809030516613042957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDeath2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6c7329b9aecbc50800000000000000
+      internalID: 6682473901004932845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDeath3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545cc08ab1ebd40a0800000000000000
+      internalID: -6895646428441557691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDeath4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac88d66b186c7870800000000000000
+      internalID: 8681928648562347177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDeath5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117ce162c3f055a0800000000000000
+      internalID: -6534455043122499310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonDeath6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b26b56b999e8e90800000000000000
+      internalID: -7021505876318606439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAttack1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1a3d04fd0cc280800000000000000
+      internalID: -9021820611684853211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAttack2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd1d5145fa78fbe0800000000000000
+      internalID: -1443268486790046223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAttack3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060d88b0938dbe8c0800000000000000
+      internalID: -3968840907078709152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAttack4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb7327afb16f1e0800000000000000
+      internalID: -2164511808432914653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAttack5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 48
+        width: 24
+        height: 24
+      alignment: 9
+      pivot: {x: 0.33333334, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8680029b94ade90800000000000000
+      internalID: -7000201611338815235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonAttack6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 32
+        height: 24
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede1556624e2c28c0800000000000000
+      internalID: -4022789504429121826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonRun1
       rect:
         serializedVersion: 2
         x: 16
         y: 24
-        width: 40
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -218,19 +485,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b76d1a4c2a234a9f0800000000000000
-      internalID: -458185587419916677
+      spriteID: 954dfab8104c05650800000000000000
+      internalID: 6219686596316222553
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfRun2
+      name: SkeletonRun2
       rect:
         serializedVersion: 2
-        x: 56
+        x: 32
         y: 24
-        width: 40
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -239,19 +506,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 73316b452b76403b0800000000000000
-      internalID: -5547194825390550217
+      spriteID: 66e03c009a2909c10800000000000000
+      internalID: 2058306284268228198
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfRun3
+      name: SkeletonRun3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a022c92eb5940a0800000000000000
+      internalID: -6896880325500990939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonRun4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 24
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1bca5fa3555e570800000000000000
+      internalID: 8495289983822508492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonRun5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 24
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d32beb4fad7ffe0800000000000000
+      internalID: -1155214034691015396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonRun6
       rect:
         serializedVersion: 2
         x: 96
         y: 24
-        width: 40
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -260,19 +590,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f502c8444c403af50800000000000000
-      internalID: 6891357095817125983
+      spriteID: 6bb420d0f91484500800000000000000
+      internalID: 380626319886666678
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfRun4
+      name: SkeletonRun7
       rect:
         serializedVersion: 2
-        x: 136
+        x: 112
         y: 24
-        width: 40
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -281,19 +611,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f5249a9baa1e71520800000000000000
-      internalID: 2672853027243246175
+      spriteID: 590d88e69e9533870800000000000000
+      internalID: 8661365367480307861
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfRun5
+      name: SkeletonRun8
       rect:
         serializedVersion: 2
-        x: 176
+        x: 128
         y: 24
-        width: 40
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -302,19 +632,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 14e23ddcaef9f9ba0800000000000000
-      internalID: -6079965141102547391
+      spriteID: 2df6930ef41203930800000000000000
+      internalID: 4120830285991997394
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfRun6
+      name: SkeletonRun9
       rect:
         serializedVersion: 2
-        x: 216
+        x: 144
         y: 24
-        width: 40
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -323,19 +653,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c409252dc18151f90800000000000000
-      internalID: -6983649135101308852
+      spriteID: 3ad0be90d27a610b0800000000000000
+      internalID: -5758231261664834141
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfAttack1
+      name: SkeletonRun10
       rect:
         serializedVersion: 2
-        x: 16
-        y: 48
-        width: 40
+        x: 160
+        y: 24
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -344,124 +674,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f4fa83b7f5834f740800000000000000
-      internalID: 5184831053750644559
+      spriteID: c4610a87f826b96d0800000000000000
+      internalID: -2982681959859218868
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfAttack2
-      rect:
-        serializedVersion: 2
-        x: 56
-        y: 48
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 16eb91bcc59dc4c30800000000000000
-      internalID: 4345086733073366625
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfAttack3
-      rect:
-        serializedVersion: 2
-        x: 96
-        y: 48
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e5dea4a5c438dd510800000000000000
-      internalID: 1575559808605154654
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfAttack4
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 48
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6f3c733389149b9b0800000000000000
-      internalID: -5063944184051285002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfAttack5
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 48
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a7afc168cd47cca10800000000000000
-      internalID: 1931046830726773370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfAttack6
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 48
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5817ebd3f10802640800000000000000
-      internalID: 5053179653577929093
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfIdle1
+      name: SkeletonIdle1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 40
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -470,82 +695,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4fdd9523134fc4d0800000000000000
-      internalID: -3112195067975180470
+      spriteID: f6af5332cb0d5bd60800000000000000
+      internalID: 7905454227381942895
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfIdle2
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 0
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b1f7d69ca4a8d650800000000000000
-      internalID: 6257932743403368881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfIdle3
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 0
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 27cb9f1f997b507f0800000000000000
-      internalID: -646909099640243086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfIdle4
-      rect:
-        serializedVersion: 2
-        x: 120
-        y: 0
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 520d0cd3de33de340800000000000000
-      internalID: 4894625464057909285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfDeath1
+      name: SkeletonIdle2
       rect:
         serializedVersion: 2
         x: 16
-        y: 72
-        width: 40
+        y: 0
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -554,19 +716,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fd1758dcd15fd18f0800000000000000
-      internalID: -568028469627883041
+      spriteID: f17504c41e28cd750800000000000000
+      internalID: 6331079080334612255
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfDeath2
+      name: SkeletonIdle3
       rect:
         serializedVersion: 2
-        x: 56
-        y: 72
-        width: 40
+        x: 32
+        y: 0
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -575,19 +737,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e35a2d7dad308c380800000000000000
-      internalID: -8950900020940200642
+      spriteID: 7bfa7f3698ab6dc80800000000000000
+      internalID: -8298240164133097545
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: WolfDeath3
+      name: SkeletonIdle4
       rect:
         serializedVersion: 2
-        x: 96
-        y: 72
-        width: 40
+        x: 48
+        y: 0
+        width: 16
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -596,50 +758,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 466685cba606caa90800000000000000
-      internalID: -7301354884331706780
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfDeath4
-      rect:
-        serializedVersion: 2
-        x: 136
-        y: 72
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2fc2dbdd38dddfbd0800000000000000
-      internalID: -2594674251864920846
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: WolfDeath5
-      rect:
-        serializedVersion: 2
-        x: 176
-        y: 72
-        width: 40
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8950f62ca1b35cd60800000000000000
-      internalID: 7909793306663388568
+      spriteID: e14a0352b8744d7a0800000000000000
+      internalID: -6353374511362956258
       vertices: []
       indices: 
       edges: []
@@ -655,27 +775,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      WolfRun2: -5547194825390550217
-      WolfAttack1: 5184831053750644559
-      WolfDeath3: -7301354884331706780
-      WolfDeath1: -568028469627883041
-      WolfDeath2: -8950900020940200642
-      WolfIdle3: -646909099640243086
-      WolfRun3: 6891357095817125983
-      WolfIdle4: 4894625464057909285
-      WolfDeath5: 7909793306663388568
-      WolfRun4: 2672853027243246175
-      WolfAttack4: -5063944184051285002
-      WolfAttack6: 5053179653577929093
-      WolfAttack5: 1931046830726773370
-      WolfIdle1: -3112195067975180470
-      WolfRun5: -6079965141102547391
-      WolfIdle2: 6257932743403368881
-      WolfDeath4: -2594674251864920846
-      WolfRun1: -458185587419916677
-      WolfRun6: -6983649135101308852
-      WolfAttack2: 4345086733073366625
-      WolfAttack3: 1575559808605154654
+      SkeletonAttack1: -9021820611684853211
+      SkeletonAttack2: -1443268486790046223
+      SkeletonAttack3: -3968840907078709152
+      SkeletonAttack4: -2164511808432914653
+      SkeletonAttack5: -7000201611338815235
+      SkeletonAttack6: -4022789504429121826
+      SkeletonDeath1: 5809030516613042957
+      SkeletonDeath2: 6682473901004932845
+      SkeletonDeath3: -6895646428441557691
+      SkeletonDeath4: 8681928648562347177
+      SkeletonDeath5: -6534455043122499310
+      SkeletonDeath6: -7021505876318606439
+      SkeletonIdle1: 7905454227381942895
+      SkeletonIdle2: 6331079080334612255
+      SkeletonIdle3: -8298240164133097545
+      SkeletonIdle4: -6353374511362956258
+      SkeletonRun1: 6219686596316222553
+      SkeletonRun10: -2982681959859218868
+      SkeletonRun2: 2058306284268228198
+      SkeletonRun3: -6896880325500990939
+      SkeletonRun4: 8495289983822508492
+      SkeletonRun5: -1155214034691015396
+      SkeletonRun6: 380626319886666678
+      SkeletonRun7: 8661365367480307861
+      SkeletonRun8: 4120830285991997394
+      SkeletonRun9: -5758231261664834141
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

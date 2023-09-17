@@ -1,52 +1,70 @@
 fileFormatVersion: 2
-guid: 9f27c47f2f185d94bb668c6c27a4ded3
+guid: afb7602f2ec99fd4ba19c0fd8a9641fb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5951877328776289634
-    second: IceGolemDeath1
+      213: -458185587419916677
+    second: WolfRun1
   - first:
-      213: -6626163262783894581
-    second: IceGolemDeath2
+      213: -5547194825390550217
+    second: WolfRun2
   - first:
-      213: -6442242602381218977
-    second: IceGolemDeath3
+      213: 6891357095817125983
+    second: WolfRun3
   - first:
-      213: 7586496228379052409
-    second: IceGolemDeath4
+      213: 2672853027243246175
+    second: WolfRun4
   - first:
-      213: -5865453221453754034
-    second: IceGolemDeath5
+      213: -6079965141102547391
+    second: WolfRun5
   - first:
-      213: 6493497875542670268
-    second: IceGolemRun1
+      213: -6983649135101308852
+    second: WolfRun6
   - first:
-      213: -7624396985072564
-    second: IceGolemRun2
+      213: 5184831053750644559
+    second: WolfAttack1
   - first:
-      213: 5678472365468456989
-    second: IceGolemRun3
+      213: 4345086733073366625
+    second: WolfAttack2
   - first:
-      213: -6526628683499156564
-    second: IceGolemRun4
+      213: 1575559808605154654
+    second: WolfAttack3
   - first:
-      213: -7566096082480968688
-    second: IceGolemRun5
+      213: -5063944184051285002
+    second: WolfAttack4
   - first:
-      213: -3252961087705743626
-    second: IceGolemIdle1
+      213: 1931046830726773370
+    second: WolfAttack5
   - first:
-      213: -9174849932301070810
-    second: IceGolemIdle2
+      213: 5053179653577929093
+    second: WolfAttack6
   - first:
-      213: -8101285897173029012
-    second: IceGolemIdle3
+      213: -3112195067975180470
+    second: WolfIdle1
   - first:
-      213: -8812695564013316242
-    second: IceGolemIdle4
+      213: 6257932743403368881
+    second: WolfIdle2
   - first:
-      213: 5497613644851806840
-    second: SnowGolemDeath6
+      213: -646909099640243086
+    second: WolfIdle3
+  - first:
+      213: 4894625464057909285
+    second: WolfIdle4
+  - first:
+      213: -568028469627883041
+    second: WolfDeath1
+  - first:
+      213: -8950900020940200642
+    second: WolfDeath2
+  - first:
+      213: -7301354884331706780
+    second: WolfDeath3
+  - first:
+      213: -2594674251864920846
+    second: WolfDeath4
+  - first:
+      213: 7909793306663388568
+    second: WolfDeath5
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -186,117 +204,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: IceGolemDeath1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 26d596865e0599250800000000000000
-      internalID: 5951877328776289634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IceGolemDeath2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bcbc5029e932b04a0800000000000000
-      internalID: -6626163262783894581
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IceGolemDeath3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f5bed205c7e8896a0800000000000000
-      internalID: -6442242602381218977
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IceGolemDeath4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 979cf5eef16a84960800000000000000
-      internalID: 7586496228379052409
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IceGolemDeath5
-      rect:
-        serializedVersion: 2
-        x: 80
-        y: 48
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4114902f59b99ea0800000000000000
-      internalID: -5865453221453754034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: IceGolemRun1
+      name: WolfRun1
       rect:
         serializedVersion: 2
         x: 16
         y: 24
-        width: 16
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -305,19 +218,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cbb797de9e98d1a50800000000000000
-      internalID: 6493497875542670268
+      spriteID: b76d1a4c2a234a9f0800000000000000
+      internalID: -458185587419916677
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemRun2
+      name: WolfRun2
       rect:
         serializedVersion: 2
-        x: 32
+        x: 56
         y: 24
-        width: 16
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -326,19 +239,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c44041eb6a9e4eff0800000000000000
-      internalID: -7624396985072564
+      spriteID: 73316b452b76403b0800000000000000
+      internalID: -5547194825390550217
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemRun3
+      name: WolfRun3
       rect:
         serializedVersion: 2
-        x: 48
+        x: 96
         y: 24
-        width: 16
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -347,19 +260,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d189e92d78cfdce40800000000000000
-      internalID: 5678472365468456989
+      spriteID: f502c8444c403af50800000000000000
+      internalID: 6891357095817125983
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemRun4
+      name: WolfRun4
       rect:
         serializedVersion: 2
-        x: 64
+        x: 136
         y: 24
-        width: 16
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -368,19 +281,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cab482bbac1cc65a0800000000000000
-      internalID: -6526628683499156564
+      spriteID: f5249a9baa1e71520800000000000000
+      internalID: 2672853027243246175
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemRun5
+      name: WolfRun5
       rect:
         serializedVersion: 2
-        x: 80
+        x: 176
         y: 24
-        width: 16
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -389,19 +302,166 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 01c4f3b23b3dff690800000000000000
-      internalID: -7566096082480968688
+      spriteID: 14e23ddcaef9f9ba0800000000000000
+      internalID: -6079965141102547391
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemIdle1
+      name: WolfRun6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 24
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c409252dc18151f90800000000000000
+      internalID: -6983649135101308852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttack1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4fa83b7f5834f740800000000000000
+      internalID: 5184831053750644559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttack2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16eb91bcc59dc4c30800000000000000
+      internalID: 4345086733073366625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttack3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dea4a5c438dd510800000000000000
+      internalID: 1575559808605154654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttack4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 48
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3c733389149b9b0800000000000000
+      internalID: -5063944184051285002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttack5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7afc168cd47cca10800000000000000
+      internalID: 1931046830726773370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfAttack6
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 48
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817ebd3f10802640800000000000000
+      internalID: 5053179653577929093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfIdle1
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 16
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -410,19 +470,82 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6fe712b20292bd2d0800000000000000
-      internalID: -3252961087705743626
+      spriteID: a4fdd9523134fc4d0800000000000000
+      internalID: -3112195067975180470
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemIdle2
+      name: WolfIdle2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1f7d69ca4a8d650800000000000000
+      internalID: 6257932743403368881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfIdle3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb9f1f997b507f0800000000000000
+      internalID: -646909099640243086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfIdle4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520d0cd3de33de340800000000000000
+      internalID: 4894625464057909285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfDeath1
       rect:
         serializedVersion: 2
         x: 16
-        y: 0
-        width: 16
+        y: 72
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -431,19 +554,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62e8da5d8926ca080800000000000000
-      internalID: -9174849932301070810
+      spriteID: fd1758dcd15fd18f0800000000000000
+      internalID: -568028469627883041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemIdle3
+      name: WolfDeath2
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
+        x: 56
+        y: 72
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -452,19 +575,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6fae132663729f80800000000000000
-      internalID: -8101285897173029012
+      spriteID: e35a2d7dad308c380800000000000000
+      internalID: -8950900020940200642
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: IceGolemIdle4
+      name: WolfDeath3
       rect:
         serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
+        x: 96
+        y: 72
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -473,19 +596,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e675351831403b580800000000000000
-      internalID: -8812695564013316242
+      spriteID: 466685cba606caa90800000000000000
+      internalID: -7301354884331706780
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SnowGolemDeath6
+      name: WolfDeath4
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 16
+        x: 136
+        y: 72
+        width: 40
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -494,8 +617,29 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8728bbd7b727b4c40800000000000000
-      internalID: 5497613644851806840
+      spriteID: 2fc2dbdd38dddfbd0800000000000000
+      internalID: -2594674251864920846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfDeath5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 72
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8950f62ca1b35cd60800000000000000
+      internalID: 7909793306663388568
       vertices: []
       indices: 
       edges: []
@@ -511,21 +655,27 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      IceGolemDeath1: 5951877328776289634
-      IceGolemRun5: -7566096082480968688
-      IceGolemRun1: 6493497875542670268
-      SnowGolemDeath6: 5497613644851806840
-      IceGolemRun3: 5678472365468456989
-      IceGolemIdle3: -8101285897173029012
-      IceGolemDeath2: -6626163262783894581
-      IceGolemDeath4: 7586496228379052409
-      IceGolemIdle2: -9174849932301070810
-      IceGolemDeath3: -6442242602381218977
-      IceGolemDeath5: -5865453221453754034
-      IceGolemRun2: -7624396985072564
-      IceGolemRun4: -6526628683499156564
-      IceGolemIdle4: -8812695564013316242
-      IceGolemIdle1: -3252961087705743626
+      WolfAttack1: 5184831053750644559
+      WolfAttack2: 4345086733073366625
+      WolfAttack3: 1575559808605154654
+      WolfAttack4: -5063944184051285002
+      WolfAttack5: 1931046830726773370
+      WolfAttack6: 5053179653577929093
+      WolfDeath1: -568028469627883041
+      WolfDeath2: -8950900020940200642
+      WolfDeath3: -7301354884331706780
+      WolfDeath4: -2594674251864920846
+      WolfDeath5: 7909793306663388568
+      WolfIdle1: -3112195067975180470
+      WolfIdle2: 6257932743403368881
+      WolfIdle3: -646909099640243086
+      WolfIdle4: 4894625464057909285
+      WolfRun1: -458185587419916677
+      WolfRun2: -5547194825390550217
+      WolfRun3: 6891357095817125983
+      WolfRun4: 2672853027243246175
+      WolfRun5: -6079965141102547391
+      WolfRun6: -6983649135101308852
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
