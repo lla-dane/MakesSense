@@ -10,7 +10,7 @@ public class Gravity : MonoBehaviour
     private bool isGravityReversed = false;
     public SpriteRenderer playerSprite;
     bool flipSpriteUnderAntiGravity = false;
-
+    public bool possible = false;
     void Start()
     {
        
@@ -21,17 +21,23 @@ public class Gravity : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetMouseButtonDown(2))
+        print(possible);
+        if (possible)
         {
+            if (Input.GetMouseButtonDown(2))
+            {
 
-            playerSprite.flipX = !flipSpriteUnderAntiGravity;
+                playerSprite.flipX = !flipSpriteUnderAntiGravity;
+
+
+                isGravityReversed = !isGravityReversed;
+
+                rb.gravityScale = isGravityReversed ? -1.0f : 1.0f;
+
+                characterTransform.Rotate(0, 0, -180.0f);
+            }
             
-
-            isGravityReversed = !isGravityReversed;
-
-            rb.gravityScale = isGravityReversed ? -1.0f : 1.0f;
-
-            characterTransform.Rotate(0, 0, -180.0f);
         }
+        
     }
 }
