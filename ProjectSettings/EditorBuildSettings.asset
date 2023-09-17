@@ -6,6 +6,7 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+<<<<<<< HEAD
     path: Assets/Scenes/Start.unity
     guid: 4f59883bd3edd5848a9090882f0e9792
   - enabled: 1
@@ -20,4 +21,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/InvisibilityWatchLab.unity
     guid: 81515c52ebf6f4b4ba291ca434882430
+=======
+    path: Assets/Scenes/InvisibilityWatchLab.unity
+    guid: 81515c52ebf6f4b4ba291ca434882430
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: e67f9e40d2504b84d946ac2ebc8eb253
+>>>>>>> 9ff1ebfde9cabeb55a714cbda152754dcc95a595
   m_configObjects: {}
