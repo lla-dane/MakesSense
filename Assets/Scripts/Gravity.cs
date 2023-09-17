@@ -8,20 +8,24 @@ public class Gravity : MonoBehaviour
     private Rigidbody2D rb;
     private Transform characterTransform;
     private bool isGravityReversed = false;
-   
+    public SpriteRenderer playerSprite;
+    bool flipSpriteUnderAntiGravity = false;
 
     void Start()
     {
        
         rb = GetComponent<Rigidbody2D>();
         characterTransform = transform;
+        playerSprite.flipX = flipSpriteUnderAntiGravity;
     }
 
     void Update()
     {
         if (Input.GetMouseButtonDown(2))
         {
-            // GameObject.Find("Hero").GetComponent<PlayerMovement>().FlipSpriteUnderReverseGravity();
+
+            playerSprite.flipX = !flipSpriteUnderAntiGravity;
+            
 
             isGravityReversed = !isGravityReversed;
 
