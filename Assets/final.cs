@@ -10,7 +10,7 @@ public class final : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        final_Cutscene.SetActive(false);
+        //final_Cutscene.SetActive(false);
     }
 
     // Update is called once per frame
@@ -22,7 +22,8 @@ public class final : MonoBehaviour
     {
         if (collision.tag == "Player")
         {
-            final_Cutscene.SetActive(true);
+            //final_Cutscene.SetActive(true);
+            final_Cutscene.GetComponent<Final_Cutscene>().a = true;
         }
     }
 }

@@ -5,11 +5,11 @@ using UnityEngine;
 public class Final_Cutscene : MonoBehaviour
 {
     public Canvas[] dialogues;
+    public bool a;
     // Start is called before the first frame update
     void Start()
-    {
-        dialogues[0].enabled = true;
-        for(int j=1; j<=8;j++)
+    {      
+        for(int j=0; j<=8;j++)
         {
             dialogues[j].enabled = false;
         }
@@ -18,7 +18,10 @@ public class Final_Cutscene : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        if(a)
+        {
+            dialogues[0].enabled = true;
+        }
     }
     public void Dialogue1()
     {
