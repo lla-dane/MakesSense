@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 296e90b8eb853994786410c12c74fcbb
+guid: 9fad93a5c561acf44a6b2e21c9569ff6
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,138 +117,33 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 917-1_0
+      name: 658-1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 65
-        width: 64
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7194fb6d76ddfff4aa22e07465ab244f
-      internalID: 1756785192
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 917-1_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 65
-        width: 64
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0657e5938fe754448b47a8899695852d
-      internalID: -1666363415
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 917-1_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 65
-        width: 64
-        height: 31
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cebc6040b74052b48a3c48cd1c62b9da
-      internalID: -1588528106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 917-1_3
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 64
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a2449f08259ea2b45a8b8f63b5abea3d
-      internalID: 1066579914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 917-1_4
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 64
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 532603598775cdd48b170f59dd2f3502
-      internalID: -1091963532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 917-1_5
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 32
-        width: 64
-        height: 33
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d84a8866f19968b47b72a4065241edec
-      internalID: 1514846800
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: 917-1_6
-      rect:
-        serializedVersion: 2
-        x: 0
+        x: 32
         y: 0
-        width: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f91c25a6c79a3142957e2cbcbb57b84
+      internalID: -1809846646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 658-1 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -257,8 +152,71 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a1b9a5aa5dfa83d4c9196ce70b61dc6f
-      internalID: -895235541
+      spriteID: 73918af898346594d98dffbaab31cf37
+      internalID: -2129604447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 658-1 1_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e164790c4c63f841807b00b060a6fc6
+      internalID: 1731602387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 658-1 1_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f7ac2f26b909e40a587d619c424601
+      internalID: 1186956992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 658-1 1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abda266bad9b1a4e9106b3189bd03c8
+      internalID: -1991434956
       vertices: []
       indices: 
       edges: []
@@ -274,13 +232,11 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      917-1_4: -1091963532
-      917-1_5: -900987286
-      917-1_2: -1588528106
-      917-1_0: 1756785192
-      917-1_3: 1066579914
-      917-1_6: 1514846800
-      917-1_1: -1666363415
+      658-1 1_0: -2129604447
+      658-1 1_2: 1186956992
+      658-1 1_1: 1731602387
+      658-1 1_3: -1991434956
+      658-1_0: -1809846646
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
